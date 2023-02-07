@@ -105,3 +105,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.history
+test_files
