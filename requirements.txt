@@ -1,3 +1,5 @@
-deepdiff==3.2.1
-requests==2.18.1
-tqdm==4.14.0
+deepdiff==6.2.3
+requests==2.28.2
+tqdm==4.64.1
+svix-ksuid==0.6.0
+aiohttp==3.8.3
