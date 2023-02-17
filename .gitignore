@@ -108,3 +108,6 @@ ENV/
 
 .history
 test_files
+
+har_outputs/
+payloads*/
